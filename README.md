@@ -3,7 +3,11 @@
 ## Table of Contents
 
 [Description](#Description)
-
+[Dependecies](#Dependencies)
+[Installing](#Installing)
+[Executing Program](#Executing-program)
+[Website](#Website)
+[Authors](#Authors)
 
 ## Description
 
@@ -33,7 +37,7 @@ npm start
 
 ## Website
 
-Check out the deployed website [here](https://youtu.be/uBVId_s-kL0).
+If you just want to note take in action, check out the deployed website [here](https://youtu.be/uBVId_s-kL0).
 
 ## Authors
 

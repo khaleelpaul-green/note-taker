@@ -40,7 +40,7 @@ npm start
 
 ## Website
 
-If you just want to see note take in action, check out the deployed website [here](https://youtu.be/uBVId_s-kL0).
+If you just want to see the Note Taker in action, check out the deployed website [here](https://youtu.be/uBVId_s-kL0).
 
 ## Authors
 

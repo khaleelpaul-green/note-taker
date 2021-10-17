@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-[Description](#Description)
-[Dependecies](#Dependencies)
-[Installing](#Installing)
-[Executing Program](#Executing-program)
-[Website](#Website)
-[Authors](#Authors)
+* [Description](#Description)
+* [Dependecies](#Dependencies)
+* [Installing](#Installing)
+* [Executing Program](#Executing-program)
+* [Website](#Website)
+* [Authors](#Authors)
 
 ## Description
 

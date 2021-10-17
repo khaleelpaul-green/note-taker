@@ -4,6 +4,7 @@
 
 * [Description](#Description)
 * [Dependecies](#Dependencies)
+* [Getting Started](#Getting-Started)
 * [Installing](#Installing)
 * [Executing Program](#Executing-program)
 * [Website](#Website)
